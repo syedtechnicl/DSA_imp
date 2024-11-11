@@ -517,4 +517,4 @@ const reverseLinkedList = (head) => {
 
 // By the end of Week 1, you’ll have a good understanding of arrays, strings, and linked lists, which will help build a strong foundation for Week 2! Let me know if you need more detailed explanations or examples for any specific topic.
 
-// next week is comming soon
+// next week is comming soon  date is 15 nov
